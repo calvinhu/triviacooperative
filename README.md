@@ -4,4 +4,4 @@ The following hosts and locations are part of a cooperative, where we collaborat
 
 **Footnote Trivia**  
 San Francisco, California  
-https://footnotetrivia.com/
+[https://footnotetrivia.com](https://footnotetrivia.com)
