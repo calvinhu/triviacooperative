@@ -3,7 +3,7 @@
 The following hosts are part of a cooperative, where we collaborate on questions and work together to make the trivia experience more enjoyable for you, the players:  
 
 **Trivia716**  
-Buffalo / Niagra Falls, New York  
+Buffalo / Niagara Falls, New York  
 [Website](https://trivia716.com)
 
 **Liquid Kourage Entertainment**  
