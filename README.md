@@ -2,6 +2,14 @@
 
 The following hosts and locations are part of a cooperative, where we collaborate on questions and work to make the experience more enjoyable for you, the players:
 
+**Liquid Kourage Entertainment**  
+Chicago, Illinois  
+[Website](https://www.facebook.com/LiquidKourage/)
+
+**Third Degree Entertainment**  
+Eastern Washington  
+[Website](https://www.thirddegreeentertainment.com/)
+
 **Terrace Room Trivia**  
 Oakland, California  
 [Website](https://www.facebook.com/terraceroomtrivia)
