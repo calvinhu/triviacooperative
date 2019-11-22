@@ -2,6 +2,9 @@
 
 The following hosts are part of a cooperative, where we collaborate on questions and work together to make the trivia experience more enjoyable for you, the players:  
 
+**Teddy James Trivia**    
+Chicago, Illinois  
+
 **Trivia716**  
 Buffalo / Niagara Falls, New York  
 [Website](https://trivia716.com)
