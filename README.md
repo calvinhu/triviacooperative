@@ -8,8 +8,8 @@ The following hosts are part of a cooperative, where we collaborate on questions
 Buffalo / Niagara Falls, New York  
 [Website](https://trivia716.com)
 
-**Orange Cat Trivia**
-Central Virginia
+**Orange Cat Trivia**  
+Central Virginia  
 [Website](https://www.facebook.com/OrangeCatTrivia/)
 
 **Teddy James Trivia**    
@@ -19,8 +19,8 @@ Chicago, Illinois
 Chicago, Illinois  
 [Website](https://www.facebook.com/LiquidKourage/)
 
-**Riddle Me This Trivia**
-Chicago, Illinois
+**Riddle Me This Trivia**  
+Chicago, Illinois  
 [Website](https://www.twitch.tv/rmttrivia)
 
 **Third Degree Entertainment**  
